@@ -49,11 +49,13 @@ Codes files are in the hd-wallet-derive folder
 
 ## **Outputs**
 
+Output screenshot are in Outputs folder.
+
 1. **HD Derive Wallet** 
    
-   ![HD Wallet Setup 1](Outputs/Hdwallet_setup1.png)
+   ![HD Wallet Setup1](Outputs/Hdwallet_setup1.png)
 
-   ![HD Wallet Setup 2](Outputs/Hdwallet_setup2.png)
+   ![HD Wallet results](Outputs/Hdwallet_setup2.png)
 
 2. **Mnemonic Generation**
    

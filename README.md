@@ -42,10 +42,10 @@ Mnemonic for path and address derivation needs to be stored in .env file
 
 ## **Code**
 
-Codes files are in the hd-wallet-derive folder
+Codes files are to be in the hd-wallet-derive folder to be run.
 
-* [wallet](hd-wallet-derive/wallet.py)
-* [constants](hd-wallet-derive/constants.py)
+* [wallet](wallet.py)
+* [constants](constants.py)
 
 ## **Outputs**
 
@@ -55,7 +55,7 @@ Output screenshot are in Outputs folder.
    
    ![HD Wallet Setup1](Outputs/Hdwallet_setup1.png)
 
-   ![HD Wallet results](Outputs/Hdwallet_setup2.png)
+   ![HD Wallet results](Outputs/hdwallet_setup2.png)
 
 2. **Mnemonic Generation**
    
